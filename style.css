@@ -379,6 +379,12 @@ nav .fa-bars {
         margin-top: 10px;
         font-size: 14px;
     }
+    .stories p {
+        font-size: 22px;
+    }
+    .about-msg {
+        font-size: 15px;
+    }
 }
 
 
