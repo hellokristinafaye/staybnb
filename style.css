@@ -408,5 +408,8 @@ nav .fa-bars {
 nav .fa-bars {
     color: #000;
 }
+.navbar-white .active:after {
+    background: #ff5361;
+}
 
 /* Listing Page Section End */
