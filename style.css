@@ -328,13 +328,13 @@ nav .fa-bars {
         max-height: 300px;
     }
     .header h1 {
-        padding-top: 110px;
+        padding-top: 130px;
         font-size: 7vw;
     }
     .search-bar {
         width: 90%;
-        margin: 10px auto;
-        padding: 10px 10px 20px;
+        margin: 20px auto;
+        padding: 15px 10px 20px;
         border-radius: 5px;
     }
     .search-bar form {
