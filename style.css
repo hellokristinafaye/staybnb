@@ -197,7 +197,33 @@ nav {
     color: #fff;
     font-size: 26px;
 }
-
-
+.start-btn {
+    text-decoration: none;
+    background: #ff5361;
+    color: #fff;
+    width: 80%;
+    /* OG max-width was like 350 */
+    max-width: 400px;
+    display: block;
+    text-align: center;
+    margin: 60px auto;
+    padding: 15px;
+    border-radius: 30px;
+    font-size: 20px;
+}
 
 /*  Travellers' End */
+
+/* About Section Start */
+.about-msg {
+    text-align: center;
+    margin: 80px 0;
+    color: #333;
+    font-size: 17px;
+}
+.about-msg h2 {
+    font-size: 28px;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+/* About Section End */
