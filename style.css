@@ -454,6 +454,11 @@ nav .fa-bars {
     font-size: 22px;
     margin: 4px 0;
 }
+.house-info i {
+    color: #ff5361;
+    font-size: 18px;
+    margin: 10px 1px;
+}
 
 /* Listing Container Section End */
 
