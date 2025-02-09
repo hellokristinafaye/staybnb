@@ -307,7 +307,8 @@ nav .fa-bars {
         display: block;
     }
     .register-btn {
-        margin: 15px 0 30px;
+        /* OG was 15px 0 30px but the 15 wasn't allowing for space underneath.*/
+        margin: 0px 0 30px;
         display: inline-block;
     }
     nav .fa-bars {
