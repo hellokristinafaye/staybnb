@@ -106,6 +106,7 @@ nav {
 .exclusives div img {
     width: 100%;
     border-radius: 10px;
+    cursor: pointer;
 }
 .exclusives div {
     position: relative;
@@ -133,10 +134,12 @@ nav {
 .trending div img {
     width: 100%;
     border-radius: 10px;
+    cursor: pointer;
 }
 .trending h3 {
     font-weight: 600;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 /* Call To Action Section Start */
@@ -183,6 +186,7 @@ nav {
 .stories div img {
     width: 100%;
     border-radius: 10px;
+    cursor: pointer;
 }
 .stories div {
     position: relative;
@@ -227,3 +231,29 @@ nav {
     font-weight: 500;
 }
 /* About Section End */
+
+/* Footer Section Start */
+.footer {
+    margin: 80px 0 10px;
+    text-align: center;
+}
+.footer a {
+    text-decoration: none;
+    color: #999;
+    font-size: 22px;
+    margin: 0 10px;
+}
+.footer hr {
+    background: #999;
+    height: 1px;
+    width: 100%;
+    border: 0;
+    margin: 20px 0;
+}
+.footer p {
+    padding-bottom: 15px;
+    /* reduced the size of that copyright message */
+    font-size: 15px;
+}
+
+/* Footer Section End */
