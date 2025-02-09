@@ -471,4 +471,15 @@ nav .fa-bars {
 }
 /* Listing Container Section End */
 
+/* Sidebar Section Start */
+.sidebar {
+    border: 1px solid #999;
+    padding: 20px 30px;
+    margin-top: 30px;
+}
+.sidebar h2 {
+    font-weight: 500;
+}
+/* Sidebar Section End */
+
 /* Listing PAGE Section End */
