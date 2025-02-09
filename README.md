@@ -8,6 +8,9 @@ Technologies Used:
 
 - HTML
 - CSS
+- Google Fonts
+- Font Awesome
+- CDN
 
 Features:
 
