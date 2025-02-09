@@ -257,3 +257,20 @@ nav {
 }
 
 /* Footer Section End */
+
+/* Active Link styling Start */
+.active {
+    position: relative;
+}
+.active::after {
+    content: '';
+    background: #fff;
+    width: 25px;
+    height: 2px;
+    position:absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -12px;
+    border-radius: 2px;
+}
+/* Active Link styling End */
