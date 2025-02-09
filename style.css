@@ -107,4 +107,17 @@ nav {
     width: 100%;
     border-radius: 10px;
 }
+.exclusives div {
+    position: relative;
+}
+.exclusives div span { 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    /* custom font-size b/c it was too big in my view */
+    font-size: 1vw;
+}
 /* Exclusives Section End */
