@@ -298,6 +298,9 @@ nav .fa-bars {
         padding: 100px 7% 0;
         background: #000;
         text-align: right;
+        max-height: 100px;
+        overflow: hidden;
+        transition: max-height 0.5s;
     }
     nav .nav-links li {
         margin: 10px 0;
@@ -319,7 +322,10 @@ nav .fa-bars {
         left: -40px;
         transform: translate(0, 50%);
         bottom: 50%;
-        }
+    }
+    .hidemenu {
+        max-height: 300px;
+    }
 }
 
 
